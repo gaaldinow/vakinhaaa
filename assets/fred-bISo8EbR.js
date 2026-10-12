@@ -1,0 +1,1 @@
+var e=`/assets/fred-BEpfSe05.webp`;export{e as t};
